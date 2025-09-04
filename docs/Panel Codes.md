@@ -1,666 +1,660 @@
 # Panel codes to panel name and sim
 
-Sim names ~~struck through~~ indicate a simulation that does not exist in SimSig loader format.  
-Panel and sim names are informative and not reflective of internal identification.  
-The list is sorted alphabetically by sim name.  
+Sim names ~~struck through~~ indicate a simulation that does not exist in SimSig loader format.
+The list is sorted alphabetically by sim name, then panel code.
 
 | Code | Panel Name | Sim Name |
 | -- | ---------- | --- |
-| VICN | North Signals | Victoria Line |
-| VICC | Centre Signals |  |
-| VICS | South Signals |  |
-| VICL | Line Controller |  |
-| AF1 | Workstation 1 | ~~Ashford~~ |
-| AF2 | Workstation 2 |  |
-| AFT | Tonbridge |  |
-| AF3 | Workstation 3 |  |
-| AF4 | Workstation 4 |  |
-| AF5 | Workstation 5 |  |
+| AF1 | Workstation 1 (Orpington & Sevenoaks) | Ashford IECC |
+| AF2 | Workstation 2 (Tonbridge & Paddock Wood) |  |
+| AF3 | Workstation 3 (Ashford-Rye) |  |
+| AF4 | Workstation 4 (Ashford) |  |
+| AF5 | Workstation 5 (Dollands Moor) |  |
+| AFT | Tonbridge PSB |  |
 | ALR | Alrewas | Aston |
-| LTV | Lichfield Trent Valley |  |
 | AST | Aston |  |
-| BM | Basingstoke | Basingstoke Main |
-| BWH | Honiton | ~~Basingstoke WoE~~ |
-| BWC | Chard Jn |  |
-| BWY | Yeovil Jn |  |
-| BWP | Yeovil Pen Mill |  |
-| BWT | Templecombe |  |
-| BWG | Gillingham |  |
-| NSS1 | South 1 | Birmingham New Street |
-| NSS2 | South 2 |  |
-| NSC | Centre |  |
+| LTV | Lichfield T.V. |  |
+| BM | Basingstoke | Basingstoke |
+| NSC | Centre | Birmingham New Street |
 | NSN | North |  |
-| BLS | Salwick | ~~Blackpool~~ |
-| BLK | Kirkham |  |
-| BLP | Poulton |  |
-| BLN1 | Blackpool North 1 |  |
-| BLN2 | Blackpool North 2 |  |
-| BRW | Weston | ~~Bristol~~ |
-| BRS | Bristol |  |
-| BRB | Bath |  |
-| BRF | Filton |  |
-| BRA | St Andrews |  |
-| CVM | Mill Lane Jn | ~~Calder Valley~~ |
-| CVH | Halifax |  |
-| CVE | Healey Mills |  |
-| CVB | Batley |  |
-| CVR | Milner Royd |  |
-| CVD | Hebden Bridge |  |
-| CBS | South | ~~Cambridge~~ |
-| CBC | Station |  |
+| NSS1 | South 1 |  |
+| NSS2 | South 2 |  |
+| BLK | Kirkham SB | Blackpool |
+| BLN1 | Blackpool North No.1 SB |  |
+| BLN2 | Blackpool North No.2 SB |  |
+| BLP | Poulton SB |  |
+| BLS | Salwick SB |  |
+| BRA | St Andrews Jn SB | Bristol |
+| BRB | Bath Panel |  |
+| BRF | Filton Panel |  |
+| BRS | Bristol Panel |  |
+| BRW | Weston Panel |  |
+| CVB | Batley SB | Calder Valley line |
+| CVD | Hebden Bridge SB |  |
+| CVE | Healey Mills SB |  |
+| CVH | Halifax SB |  |
+| CVM | Mill Lane Jn SB |  |
+| CVR | Milner Royd Jn SB |  |
+| CBC | Station | Cambridge PSB |
+| CBK | Kings Dyke SB |  |
 | CBN | North |  |
-| CBK | Kings Dyke |  |
-| CBW | Canterbury/Wye ACC | ~~Canterbury~~ |
-| CBF | Folkestone East |  |
+| CBS | South |  |
+| CBF | Folkestone East SB | Canterbury |
+| CBW | Canterbury/Wye ACC |  |
 | CDE | East | Cardiff |
-| CDW | West |  |
-| CDT | Taff |  |
 | CDF | St Fagan's |  |
-| CVR | Radyr | Cardiff Valleys |
-| CVA | Abercynon |  |
-| CVH | Heath |  |
-| CVYM | Ystrad Mynach South |  |
-| CVB | Bargoed |  |
-| CGB | Barry | Cardiff Vale of Glamorgan |
-| CGA | Aberthaw |  |
+| CDT | Taff |  |
+| CDW | West |  |
+| CGA | Aberthaw | Cardiff Vale of Glamorgan |
+| CGB | Barry |  |
 | CGC | Cowbridge Road |  |
-| CRA | A (North) | Carlisle |
-| CRB | B (Station) |  |
-| CRC | C (South) |  |
+| CVA | Abercynon | Cardiff Valleys |
+| CVB | Bargoed |  |
+| CVH | Heath Junction |  |
+| CVR | Radyr |  |
+| CVYM | Ystrad Mynach South |  |
+| CRA | Panel A | Carlisle |
+| CRB | Panel B |  |
+| CRC | Panel C |  |
 | CC | Cathcart | Cathcart |
-| CS1 | Cowlairs 1 | Central Scotland |
-| CS2 | Cowlairs 2 |  |
-| CSG | Greenhill Jn |  |
-| CSC | Carmuirs East Jn |  |
-| CSL | Larbert North |  |
-| CSH | Grangemouth Jn |  |
-| CSP | Polmont Jn |  |
-| CSF | Fouldubs Jn |  |
-| CSM1 | Stirling Middle South |  |
-| CSM2 | Sirling Middle Kincardine |  |
-| CSN | Sirling North |  |
+| CS1 | Cowlairs - Workstation 1 | Central Scotland |
+| CS2 | Cowlairs - Workstation 2 |  |
+| CSC | Carmuirs East Junction |  |
 | CSD | Dunblane |  |
-| CHG | Greenbank | Cheshire Lines |
-| CHP | Plumley West |  |
+| CSF | Fouldubs Junction |  |
+| CSG | Greenhill Junction |  |
+| CSH | Grangemouth Junction |  |
+| CSL | Larbert North |  |
+| CSM1 | Stirling Middle - South End |  |
+| CSM2 | Stirling Middle - Kincardine Lines |  |
+| CSN | Stirling North |  |
+| CSP | Polmont Junction |  |
+| CHD | Deansgate Jn | Cheshire Lines |
+| CHG | Greenbank |  |
 | CHM | Mobberley |  |
-| CHD | Deansgate Jn |  |
 | CHN | Northenden Jn |  |
-| CEC | Chester | Chester |
-| CEH | Hooton |  |
+| CHP | Plumley West |  |
+| CEB | Beeston Castle | Chester |
+| CEC | Chester |  |
 | CEE | Ellesmere Port |  |
-| CEB | Beeston Castle |  |
-| CEM | Mickle Trafford |  |
-| CEH | Helsby |  |
 | CEF | Frodsham |  |
+| CEH | Hooton |  |
+| CEH | Helsby |  |
+| CEM | Mickle Trafford |  |
 | CEN | Norton |  |
-| CNP | Penzance | Cornwall |
-| CNE | St Erth |  |
+| CNB | St. Blazey | Cornwall |
+| CNE | St. Erth |  |
+| CNG | Goonbarrow Jn |  |
+| CNK | Liskeard |  |
+| CNP | Penzance |  |
+| CNP | Par |  |
 | CNR | Roskear Jn |  |
 | CNT | Truro |  |
-| CNP | Par |  |
-| CNB | St Blazey |  |
-| CNG | Goonbarrow Jn |  |
 | CNW | Lostwithiel |  |
-| CNK | Liskeard |  |
-| CWA | Ascott under Wychwood | ~~Cotswolds~~ |
-| CWM | Moreton in Marsh |  |
-| CWE | Evesham |  |
-| CWN | Norton Jn |  |
-| CWS | Worcester Shrub Hill |  |
-| CWT | Worcester Tunnel Jn |  |
-| CWD | Droitwich Spa |  |
-| CWH | Henwick |  |
-| CWN | Newland East |  |
-| CWW | Malvern Wells |  |
-| CWL | Ledbury |  |
+| CWA | Ascott-under-Wychwood SB | Cotswolds line |
+| CWD | Droitwich Spa SB |  |
+| CWE | Evesham SB |  |
+| CWH | Henwick SB |  |
+| CWL | Ledbury SB |  |
+| CWM | Moreton-in-Marsh SB |  |
+| CWN | Norton Jn SB |  |
+| CWN | Newland East SB |  |
+| CWS | Worcester Shrub Hill SB |  |
+| CWT | Worcester Tunnel Jn SB |  |
+| CWW | Malvern Wells SB |  |
 | CV | Coventry | Coventry |
-| CRW | Winsford | Crewe |
-| CRY | Coal Yard |  |
-| CRN | North |  |
-| CRS | South |  |
-| CRW | Steel Works |  |
+| CRA | Salop Goods Jn | Crewe |
 | CRB | Basford Hall |  |
 | CRG | Gresty Lane |  |
-| CRA | Salop Goods Jn |  |
-| CRO | Sorting Sdgs |  |
-| CUA | Arnside | ~~Cumbrian Coast~~ |
-| CUG | Grange over Sands |  |
-| CUU | Ulverston |  |
-| CUD | Dalton Jn |  |
-| CUB | Barrow in Furness |  |
-| CUP | Park South |  |
-| CUK | Askam |  |
-| CUF | Foxfield |  |
-| CUM | Millom |  |
-| CUS | Silecroft |  |
-| CUR | Kirksanton |  |
-| CUL | Limestone Hall |  |
-| CUO | Bootle |  |
-| CUI | Drigg |  |
-| CUN | Sellafield |  |
-| CUE | St Bees |  |
-| CUT | Bransty |  |
-| CUW2 | Workington 2 |  |
-| CUW3 | Workington 3 |  |
-| CUY | Maryport |  |
-| CUW | Wigton |  |
-| DBW | West | Derby |
-| DBC | Centre |  |
-| DBN | North |  |
+| CRN | Crewe PSB North |  |
+| CRO | Sorting Sidings North |  |
+| CRS | Crewe PSB South |  |
+| CRW | Winsford |  |
+| CRW | Steel Works |  |
+| CRY | Coal Yard |  |
+| CUA | Arnside SB | Cumbrian Coast line |
+| CUB | Barrow-in-Furness SB |  |
+| CUD | Dalton Junction SB |  |
+| CUE | St Bees SB |  |
+| CUF | Foxfield SB |  |
+| CUG | Grange-over-Sands SB |  |
+| CUI | Drigg SB |  |
+| CUK | Askam SB |  |
+| CUL | Limestone Hall LC |  |
+| CUM | Millom SB |  |
+| CUN | Sellafield SB |  |
+| CUO | Bootle SB |  |
+| CUP | Park South SB |  |
+| CUR | Kirksanton LC |  |
+| CUS | Silecroft SB |  |
+| CUT | Bransty SB |  |
+| CUU | Ulverston SB |  |
+| CUW | Wigton SB |  |
+| CUW2 | Workington No.2 SB |  |
+| CUW3 | Workington No.3 SB |  |
+| CUY | Maryport Station SB |  |
+| DBC | Centre | Derby |
 | DBL | Mantle Lane |  |
 | DBM | Moira West |  |
-| DN5 | Panel 5 | Doncaster North |
-| DN4 | Panel 4 |  |
-| DN3 | Panel 3 | Doncaster Station |
-| DN2 | Panel 2 |  |
-| DNC | (Panel 2 common) | (Station/South) |
-| DN1N | Panel 1 North | Doncaster South |
-| DN1S | Panel 1 South |  |
-| DCL | Low Gates | ~~Durham Coast~~ |
-| DCB | Bowesfield |  |
-| DCF | Ferryhill |  |
-| DCR | Ryhope Grange |  |
-| ECL | Lewes | East Coastway |
-| ECT | Newhaven Town |  |
-| ECH | Newhaven Harbour |  |
-| ECB | Berwick |  |
-| ECP | Polegate |  |
-| ECA | Hampden Park |  |
-| ECE | Eastbourne |  |
-| ECW | Pevensey & Westham |  |
-| ECX | Bexhill |  |
-| EKR | Rochester | ~~East Kent~~ |
-| EKC | Cuxton |  |
-| EKW | Wateringbury |  |
-| EH1 | Panel 1 | ~~Eastleigh~~ |
-| EH2 | Panel 2 |  |
-| EH3 | Panel 3 |  |
-| EWC | Claydon L&NE Jn | ~~East-West Rail~~ |
-| EWW | Marston Vale West |  |
-| EWE | Marston Vale East |  |
-| EDH | Halton Jn | Edge Hill |
-| EDR | Runcorn |  |
-| EDM | Monks Sdgs |  |
-| EDF | Fiddlers Ferry |  |
-| EDD | Ditton |  |
-| EDS | Speke Jn |  |
-| EDA | Allerton |  |
-| EDE | Edge Hill |  |
-| EDL | Lime Street |  |
-| EB1 | Panel 1 | Edinburgh |
-| EB2 | Panel 2 |  |
-| EB3 | Panel 3 |  |
-| EB4 | Panel 4 |  |
-| EB5 | Panel 5 |  |
-| EB6 | Panel 6 |  |
-| EBM | Millerhill |  |
-| EL1 | Workstation 1 | ~~East London Line~~ |
-| EL2 | Workstation 2 |  |
-| EXA | Panel A | Exeter |
-| EXB | Panel B |  |
-| EXC | Panel C |  |
-| EXP | Paignton |  |
-| EXE | Exmouth Jn |  |
-| EXR | Crediton |  |
-| FHR | Reading | Feltham |
-| FHW | Wokingham |  |
-| FHA | Ascot |  |
-| FHS | Staines |  |
-| FHH | Hounslow |  |
-| FHT | Twickenham |  |
-| FHR | Strawberry Hill |  |
-| FHB | Barnes |  |
-| GES | Stratford | ~~GEML Inner~~ |
-| GEI | Ilford |  |
-| GGS | Station | ~~Glasgow~~ |
-| GGB | Bridge Street |  |
-| GGP | Polmadie |  |
-| GGM | Muirhouse |  |
-| GGS | Shields |  |
-| GLN | North | ~~Gloucester~~ |
-| GLC | Central |  |
-| GLS | South |  |
-| GSB | Barrhead | ~~Glasgow South West~~ |
-| GSL | Lugton |  |
-| GSK | Kilmarnock |  |
-| GSH | Hurlford |  |
-| GSM | Mauchline |  |
-| GSN | New Cumnock |  |
-| GSC | Kirkconnel |  |
-| GST | Thornhill |  |
-| GSH | Holywood |  |
-| GSD | Dumfries Station |  |
-| GSA | Annan |  |
-| GFE | East | ~~Guildford~~ |
-| GFW | West |  |
-| HGF | Horsforth | ~~Harrogate~~ |
-| HGR | Rigton |  |
-| HGH | Harrogate |  |
-| HGS | Starbeck |  |
-| HGK | Knaresborough |  |
-| HGC | Cattal |  |
-| HGM | Hammerton |  |
-| HGP | Poppleton |  |
-| HSR | Robertsbridge | ~~Hastings~~ |
-| HSB | Bo Peep Jn |  |
-| HSH | Hastings |  |
-| HSY | Rye |  |
-| HFD | Dorrington | Hereford |
-| HFM | Marsh Brook |  |
-| HFC | Craven Arms |  |
-| HFO | Onibury |  |
-| HFB | Bromfield |  |
-| HFW | Woofferton |  |
-| HFE | Leominster |  |
-| HFG | Moreton on Lugg |  |
-| HFH | Hereford |  |
-| HFT | Tram Inn |  |
-| HFI | Pontrilias |  |
-| HFP | Pantyffynnon |  |
-| HFA | Abergavenny |  |
-| HFL | Little Mill Jn |  |
-| HVH | Hazel Grove | Hope Valley |
-| HVC | New Mills Central |  |
-| HVS | New Mills South Jn |  |
-| HVC | Chinley |  |
-| HVE | Edale |  |
-| HVA | Earles Sdgs |  |
-| HVG | Grindleford |  |
-| HVT | Totley Tunnel East |  |
-| HVP | Peak Forest |  |
-| HVG | Great Rocks |  |
-| HVF | Furness Vale |  |
-| HVL | Chapel-En-Le-Frith |  |
-| HVB | Buxton |  |
-| HOH | Horsham | Horsham |
-| HOD | Dorking |  |
-| HUH | Huddersfield | Huddersfield |
-| HUD | Diggle Jn |  |
-| HLG | Goole | ~~Hull~~ |
-| HLB | Goole Bridge |  |
-| HLS | Selby |  |
-| HLB | Brough |  |
-| HLH | Hessle Road |  |
-| HLP | Hull Paragon |  |
-| HCH | Hunts Cross | Hunts Cross |
-| HCW | Warrington Central |  |
-| HCG | Glazebrook East Jn |  |
-| HYL | MROC Liverpool | Huyton & St Helens |
-| HYH | St Helens |  |
-| IVD | Dunkeld | ~~Inverness~~ |
-| IVY | Dyce |  |
-| KXX | Cross | Kings Cross |
-| KXF | Finsbury |  |
-| KXP | Palace |  |
-| KXW | Welwyn |  |
-| KXH | Hitchin |  |
-| LN | Panel 1 | Lancing |
-| LM | Leamington | Leamington Spa & Fenny Compton |
-| LA | Leeds Ardsley | Leeds Ardsley |
-| LSW2 | West 2 | Leeds East/West |
-| LSW1 | West 1 |  |
-| LSE1 | East 1 |  |
-| LSE2 | East 2 |  |
-| LN | Leeds Northwest | Leeds Northwest |
-| LSS | South | ~~Leicester~~ |
-| LSC | Croft |  |
-| LSN | North |  |
-| LSB | Bardon Hill |  |
-| LSF | Frisby Hill |  |
-| LSM | Melton Station |  |
-| LSW | Whissendine |  |
-| LSA | Ashwell |  |
-| LSL | Langham Jn |  |
-| LSO | Oakham LC |  |
-| LSM | Manton Jn |  |
-| LSK | Ketton |  |
-| LSU | Uffington & Barnack |  |
-| LCS | South | ~~Lincoln~~ |
-| LCE | East |  |
-| LCC | City |  |
-| LCW | West |  |
-| LCSB | Swinderby |  |
-| LCLG | Langworth |  |
-| LCWB | Wickenby |  |
-| LCHM | Holton-le-Moor |  |
-| LCAC | Ancaster |  |
-| LCRA | Rauceby |  |
-| LCSW | Sleaford West |  |
-| LCSE | Sleaford East |  |
-| LCHE | Heckington |  |
-| LCHB | Hubberts Bridge |  |
-| LCBW | Boston West Street Jn |  |
-| LCSY | Sibsey |  |
-| LCBJ | Bellwater Jn |  |
-| LCTC | Thorpe Culvert |  |
-| LCWA | Wainfleet |  |
-| LCSK | Skegness |  |
-| LVA | West Anglia | Liverpool Street |
-| LVE | Great Eastern |  |
-| LB1 | Panel 1 | London Bridge |
-| LB2 | Panel 2 |  |
-| LB3 | Panel 3 |  |
-| LB4 | Panel 4 |  |
-| LB5 | Panel 5 |  |
-| LB6 | Panel 6 |  |
-| LB7 | Panel 7 |  |
-| LB8 | Panel 8 |  |
-| LB9 | Panel 9 |  |
-| LTL | London | LTS |
-| LTS | Southend |  |
-| LTT | Tilbury |  |
-| LTC | Crossings |  |
-| MHW | West | ~~Machynlleth~~ |
-| MHE | East |  |
-| MD | Maidstone East | Maidstone East |
-| MED | Dinting | Manchester East |
-| MEG | Guide Bridge |  |
-| MES | Stalybridge |  |
-| MER | Romiley Jn |  |
-| MEM | Ashton Moss North |  |
-| MEB | Baguley Fold Jn |  |
-| MEE | Denton |  |
-| MEA | Ashburys |  |
-| MNW | West | Manchester North |
-| MNE | East |  |
-| MNV | Vitriol Works |  |
-| MNC | Castleton East |  |
-| MNR | Rochdale West |  |
-| MPH | Heald Green | Manchester Piccadilly |
-| MPL | Longsight |  |
-| MPP | Piccadilly |  |
-| MPO | Oxford Road |  |
-| MPW1 | Windsor Bridge 1 |  |
-| MPW2 | Windsor Bridge 2 | |
-| MPC | Crow Nest |  |
-| MS | Manchester South | Manchester South |
-| MC | Macclesfield |  |
-| MBB | Banbury | Marylebone |
-| MBS | Marylebone South |  |
-| MBN | Marylebone North |  |
-| MBB | Bicester-Oxford | |
-| MBL | LUL Area | |
-| MOB | Bedlington | ~~Morpeth~~ |
-| MOM | Morpeth |  |
-| MOA | Alnmouth |  |
-| MOT | Tweedmouth |  |
-| MW1 | Workstation 1 | Motherwell |
-| MW2 | Workstation 2 |  |
-| MW3 | Workstation 3 |  |
-| MW4 | Workstation 4 |  |
-| MW5 | Workstation 5 |  |
-| MW6 | Workstation 6 |  |
-| ESGL | Greenloaning | North East Scotland |
-| ESBF | Blackford |  |
-| ESAH | Auchterarder |  |
-| ESH | Hilton Jn |  |
-| ESP | Perth |  |
-| ESBH | Barnhill |  |
-| ESER | Errol |  |
-| ESLF | Longforgan |  |
-| ESD | Dundee |  |
-| EST | Tay Bridge South |  |
-| ESL | Leuchars |  |
-| ESC | Cupar |  |
-| ESS | Stanley Jn |  |
-| ESCN | Carnoustie |  |
-| ESAB | Arbroath |  |
-| ESI | Inerkeilor |  |
-| ESU | Usan |  |
-| ESM | Montrose North |  |
-| ESCR | Craigo |  |
-| ESLK | Laurencekirk |  |
-| ESCA | Carmont |  |
-| ESSH | Stonehaven |  |
-| ESNH | Newtonhill |  |
-| ESA | Aberdeen |  |
-| WXD | Dee Marsh Jn | North East Wales |
-| WXS | Shotwick Ground Frame |  |
-| WXP | Penyfford |  |
-| WXG | Croes Newydd North Fork |  |
-| WXG | Gobowen North |  |
-| NPS | Severn Tunnel | Newport |
-| NPM | Magor |  |
-| NPS | Station |  |
-| NPP | Park Jn |  |
-| NPU | East Usk |  |
-| NLR | Richmond | ~~North London Line~~ |
-| NLW | Acton Wells Jn |  |
-| NLC | Acton Canal Wharf |  |
-| NLN | Neasden Jn |  |
-| NLD | Dudding Hill Jn |  |
-| NLM | Central Workstation |  |
-| NLE | Eastern Workstation |  |
-| NLT | Temple Mills |  |
-| NLH | Upper Holloway |  |
-| NLP | Harringay Park Jn |  |
-| NLS | South Tottenham Station Jn |  |
-| NWS | Rockcliffe Halt | North Wales Coast |
-| NWO | Holywell Jn |  |
-| NWM | Mostyn |  |
-| NWT | Talacre |  |
-| NWE | Prestatyn |  |
-| NWR | Rhyl |  |
-| NWA | Abergele |  |
-| NWLJ | Llandudno Jn |  |
-| NWL | Llanrwst |  |
-| NWD | Deganwy |  |
-| NWLS | Llandudno |  |
-| NWP | Penmaenmawr |  |
-| NWB | Bangor |  |
-| NWG | Gaerwen |  |
-| NWV | Valley |  |
-| NWH | Holyhead |  |
-| NK1 | North Kent 1 | North Kent |
-| NK2 | North Kent 2 |  |
-| OXF | Oxford | Oxford |
-| OXT | Oxted | Oxted |
-| PDG | Greenford East | ~~Paddington~~ |
-| PD1 | Panel 1 |  |
-| PD2 | Panel 2 |  |
-| PA1 | Panel 1 | Paisley |
-| PA2 | Panel 2 |  |
-| PA3 | Panel 3 |  |
-| PBT | Hitchin-Tempsford | Peterborough |
-| PHB | Little Barford-Stilton |  |
-| PHP | Peterborough |  |
-| PHE | New England |  |
-| PHH | Helpston-Stoke |  |
-| PHCE | Everton G.B. |  |
-| PHCO | Offord & Buckden G.B. |  |
-| PHCM | Holme G.B. |  |
-| PHCP | Helpston G.B. |  |
-| PHCT | Tallington G.B. |  |
-| PLW | West | Plymouth |
-| PLE | East |  |
-| PTA | Panel A | Port Talbot |
-| PTB | Panel B |  |
-| PTC | Panel C |  |
-| PTT | Tondu |  |
-| PTN | Neath & Brecon Jn |  |
-| PNA | Panel A | ~~Preston~~ |
-| PNB | Panel B |  |
-| PNC | Panel C |  |
-| PND | Panel D |  |
-| PNY | Daisyfield |  |
-| PNH | Horrocksford |  |
-| PNM | Midge Hall |  |
-| PNR | Rufford |  |
-| PNL | Bare Lane LC |  |
-| PNF | Carnforth St Jn |  |
-| RD | Reading | ~~Reading~~ |
-| RY | Royston | Royston |
-| RSB | Bletchley | Rugby South |
-| RST | Tring |  |
-| RCN | Northampton | Rugby Centre |
-| RCR | Rugby |  |
-| RNN | Nuneaton | Rugby North |
-| RNT | Trent Valley |  |
-| SB | Salisbury | Salisbury |
-| SLST | South Top | Saltley |
-| SLSB | South Bottom |  |
-| SLC | Centre |  |
-| SLN | North |  |
-| SLS | Stratford |  |
-| SHW | Wirral | Sandhills (Merseyrail) |
-| SHN | Northern |  |
-| SCH | Hellifield | ~~Settle & Carlisle Line~~ |
-| SCS | Settle Jn |  |
-| SCB | Blea Moor |  |
-| SCG | Garsdale |  |
-| SCKS | Kirkby Stephen |  |
-| SCA | Appleby North |  |
-| SCKT | Kirkby Thore |  |
-| SCC | Culgaith |  |
-| SCL | Low House Crossing |  |
-| SCH | Howe & Co Siding |  |
-| SFS | Sheffield | Sheffield |
-| SFR1 | Rotherham 1 |  |
-| SFR2 | Rotherham 2 |  |
-| SFE | Beighton St Jn |  |
-| SFH | Woodhouse Jn |  |
-| SFB | Woodburn Jn |  |
-| SFB | Barnsley |  |
-| SFC | Woolley Coal Sdgs |  |
-| SRU | Sutton Bridge Jn | Shrewsbury |
-| SRE | Severn Bridge Jn |  |
-| SRA | Abbey Foregate |  |
-| SRC | Crewe Jn |  |
-| SRB | Crewe Bank |  |
-| SRH | Harlescott Crossing |  |
-| SRW | Wem |  |
-| SRP | Prees |  |
-| SRU | Whitchurch |  |
-| SRR | Wrenbury |  |
-| SRN | Nantwich |  |
-| SUW | West | Slough |
-| SUE | East |  |
-| SMW | Scunthorpe West | ~~South Humberside~~ |
-| SME | Scunthorpe East |  |
-| SMG | Gainsborough |  |
-| SMB | Barnetby |  |
-| SMU | Ulceby Jn |  |
-| SMM | Grimsby |  |
-| SMI | Immingham |  |
-| STD | Derby Line | Staffordshire |
-| STSN | Stoke North |  |
-| STSS | Stoke South |  |
-| STS | Stafford |  |
-| STC | Colwich |  |
-| SPE1 | Edgeley No 1 | Stockport |
-| SPE2 | Edgeley No 2 |  |
-| SPS1 | Stockport No 1 |  |
-| SPS2 | Stockport No 2 |  |
-| SPH | Heaton Norris Jn |  |
-| SJ | Stourbridge Jn | Stourbridge Jn |
-| SW1 | Wootton Basset/1 | Swindon A & B |
-| SW2 | Swindon/2 |  |
-| SW3 | Didcot/3 |  |
-| TOM | Madeley Jn | Telford & Oxley |
-| TOX | Oxley |  |
-| TB1A | Panel 1A | Three Bridges |
-| TB1B | Panel 1B |  |
-| TB1C | Panel 1C |  |
-| TB2 | Panel 2 |  |
-| TB3 | Panel 3 |  |
-| TB4 | Panel 4 |  |
-| TB5 | Panel 5 |  |
-| TB6 | Panel 6 |  |
-| TBR | Reigate |  |
-| TRT | Tapton Jn | ~~Trent~~ |
-| TRC | Clay Cross |  |
-| TRV | Erewash Valley |  |
-| TRP | Pinxton & Sleights East |  |
-| TRK | Kirkby Summit |  |
-| TRR | Robin Hood |  |
-| TRN | Nottingham |  |
-| TRE | East Nottinghamshire |  |
-| TRT | Trent |  |
-| TRS | Stapleford & Sandiacre |  |
-| TYD | Darlington | Tyneside |
-| TYH | Heighington |  |
-| TYL | Shildon |  |
-| TYG | Gateshead |  |
-| TYN | Newcastle |  |
-| TYS | Sunderland |  |
-| VC1 | Panel 1 | Victoria Central |
-| VC2A | Panel 2A |  |
-| VC2B | Panel 2B |  |
-| VC3 | Panel 3 |  |
-| VC4 | Panel 4 |  |
-| VE5 | Panel 5 | Victoria South Eastern |
-| VE6 | Panel 6 |  |
-| VE7 | Panel 7 |  |
-| VE8 | Panel 8 |  |
-| VE9 | Panel 9 |  |
-| VE0A | Panel 10A |  |
-| VE0B | Panel 10B |  |
-| WA6 | Walsall 2006 | Walsall |
-| WA9 | Walsall 2019 |  |
-| WAX | Bloxwich |  |
-| WAH | Hednesford |  |
-| WAS | Brereton Sdgs |  |
-| WAB | Bescot |  |
-| WRN | North | Warrington |
-| WRM | Middle |  |
-| WRS | South |  |
-| WRJ | Arpley Jn |  |
-| WRA | Astley |  |
-| WRE | Eccles |  |
-| WJ | Watford Jn | Watford Jn |
-| WMW | Wembley | Wembley Mainline |
-| WML | Willesden |  |
-| WMC | Camden |  |
-| WME | Euston |  |
-| WS | Wembley Suburban | Wembley Suburban |
-| WAK | Hackney | West Anglia |
-| WAB | Brimsdown |  |
-| WAR | Harlow |  |
-| WCB | Billingshurst | ~~West Coastway~~ |
-| WCL | Lancing Panel 2 |  |
-| WH1 | Panel 1 | West Hampstead |
-| WH2 | Panel 2 |  |
-| WH3 | Panel 3 |  |
-| WH4 | Panel 4 |  |
-| WWP | Pembrey | ~~West Wales~~ |
-| WWK | Kidwelly |  |
-| WWF | Ferryside |  |
-| WWC | Carmarthen Jn |  |
-| WWW | Whitland |  |
-| WWB | Clarbeston Rd |  |
-| WYH | Horbury Jn | West Yorkshire |
-| WYW | Wakefield Kirkgate |  |
-| WYC | Castleford |  |
-| WYP | Prince of Wales & Cutsyke |  |
-| WYF | Ferrybridge |  |
-| WYM | Milford |  |
-| WYS | Milford West Sdgs |  |
-| WBR | Reading Newbury | Westbury |
-| WBA | Panel A |  |
-| WBB | Panel B |  |
-| WIW | Wigan Wallgate | Wigan Wallgate |
-| WIR | Rainford Jn |  |
-| WIP | Parbold |  |
-| WIB | Burscough Bridge Jn |  |
-| WI1 | Panel 1 | Wimbledon |
-| WI2 | Panel 2 |  |
-| WI3 | Panel 3 |  |
-| WI4 | Panel 4 |  |
-| WIC | Clapham Yard |  |
-| WOS | Surbiton | Woking |
-| WOW | Working |  |
-| WOA | Aldershot |  |
-| WM | Wolverhampton | Wolverhampton |
-| WST | Thrumpton | ~~Worksop~~ |
-| WSW | Worksop |  |
-| WSM | Maltby Colliery |  |
-| WSK | Kiveton Park |  |
-| WSE | Elmton & Creswell |  |
-| WSS | Shirebrook Jn |  |
-| WSC | Clipstone |  |
-| WSL | Thoresby Colliery Jn |  |
-| YR1 | Workstation 1 | ~~Yoker~~ |
-| YR2 | Workstation 2 |  |
-| YKN | North | York |
-| YKS | South |  |
-| YKG | Gascoigne Wood |  |
+| DBN | North |  |
+| DBW | West |  |
+| DN4 | Panel 4 | Doncaster North |
+| DN5 | Panel 5 |  |
+| DN1N | Panel 1N | Doncaster South |
+| DN1S | Panel 1S |  |
+| DNC | Panel 2 |  |
+| DN2 | Panel 2 | Doncaster Station |
+| DN3 | Panel 3 |  |
+| DCB | Bowesfield SB | Durham Coast |
+| DCF | Ferryhill SB |  |
+| DCL | Low Gates SB |  |
+| DCR | Ryhope Grange Jn SB |  |
+|  | Lewes | East Coastway |
+|  | Newhaven Town |  |
+|  | Newhaven Harbour |  |
+|  | Berwick |  |
+|  | Polegate |  |
+|  | Hampden Park |  |
+|  | Eastbourne |  |
+|  | Pevensey & Westham |  |
+|  | Bexhill |  |
+|  | Rochester SB | East Kent |
+|  | Cuxton SB |  |
+|  | Wateringbury SB |  |
+|  | Workstation 1 | East London Line |
+|  | Workstation 2 |  |
+|  | Claydon L&NE Jn SB | East West Rail |
+|  | Marston Vale West Workstation |  |
+|  | Marston Vale East Workstation |  |
+|  | Panel 1 | Eastleigh |
+|  | Panel 2 |  |
+|  | Panel 3 |  |
+|  | Halton Jn | Edge Hill |
+|  | Runcorn |  |
+|  | Monks Sidings |  |
+|  | Fiddlers Ferry |  |
+|  | Ditton |  |
+|  | Speke Jn |  |
+|  | Allerton |  |
+|  | Edge Hill |  |
+|  | Lime Street |  |
+|  | Panel 1 | Edinburgh |
+|  | Panel 2 |  |
+|  | Panel 3 |  |
+|  | Panel 4 |  |
+|  | Panel 5 |  |
+|  | Panel 6 |  |
+|  | Millerhill |  |
+|  | Panel A | Exeter |
+|  | Paignton |  |
+|  | Panel B |  |
+|  | Exmouth Jn |  |
+|  | Panel C |  |
+|  | Crediton |  |
+|  | Reading | Feltham |
+|  | Wokingham |  |
+|  | Ascot |  |
+|  | Staines |  |
+|  | Hounslow |  |
+|  | Twickenham |  |
+|  | Strawberry Hill |  |
+|  | Barnes |  |
+|  | Stratford Workstation | GEML Inner |
+|  | Ilford Workstation |  |
+|  | Station | Glasgow PSB |
+|  | Bridge Street |  |
+|  | Polmadie |  |
+|  | Muirhouse |  |
+|  | Shields |  |
+|  | Barrhead SB | Glasgow South Western line |
+|  | Lugton SB |  |
+|  | Kilmarnock SB |  |
+|  | Hurlford SB |  |
+|  | Mauchline SB |  |
+|  | New Cumnock SB |  |
+|  | Kirkconnel SB |  |
+|  | Thornhill SB |  |
+|  | Holywood SB |  |
+|  | Dumfries Station SB |  |
+|  | Annan SB |  |
+|  | North Panel | Gloucester |
+|  | Central Panel |  |
+|  | South Panel |  |
+|  | East | Guildford PSB |
+|  | West |  |
+|  | Horsforth SB | Harrogate line |
+|  | Rigton SB |  |
+|  | Harrogate SB |  |
+|  | Starbeck SB |  |
+|  | Knaresborough SB |  |
+|  | Cattal SB |  |
+|  | Hammerton SB |  |
+|  | Poppleton SB |  |
+|  | Robertsbridge SB | Hastings |
+|  | Bo Peep Jn SB |  |
+|  | Hastings SB |  |
+|  | Rye SB |  |
+|  | Dorrington | Hereford |
+|  | Marsh Brook |  |
+|  | Craven Arms |  |
+|  | Onibury |  |
+|  | Bromfield |  |
+|  | Woofferton |  |
+|  | Leominster |  |
+|  | Moreton on Lugg |  |
+|  | Hereford |  |
+|  | Tram Inn |  |
+|  | Pontrilias |  |
+|  | Abergavenny |  |
+|  | Little Mill Junction |  |
+|  | Pantyffynnon |  |
+|  | Hazel Grove SB | Hope Valley |
+|  | New Mills Central SB |  |
+|  | New Mills South Jn SB |  |
+|  | Chinley SB |  |
+|  | Edale SB |  |
+|  | Earles Sidings SB |  |
+|  | Grindleford SB |  |
+|  | Totley Tunnel East SB |  |
+|  | Peak Forest South SB |  |
+|  | Great Rocks Junction SB |  |
+|  | Furness Vale SB |  |
+|  | Chapel-en-le-Frith SB |  |
+|  | Buxton SB |  |
+|  | Horsham | Horsham |
+|  | Dorking |  |
+|  | Huddersfield | Huddersfield |
+|  | Diggle Jn |  |
+|  | Goole SB | Hull line |
+|  | Goole Bridge SB |  |
+|  | Selby SB |  |
+|  | Brough Workstation |  |
+|  | Hessle Road SB |  |
+|  | Hull Paragon SB |  |
+|  | Hunts Cross | Hunts Cross |
+|  | Warrington Central |  |
+|  | Glazebrook East Jn |  |
+|  | MROC | Huyton & St Helens |
+|  | St Helens |  |
+|  | Dunkeld SB | Inverness |
+|  | Dyce SB |  |
+|  | Cross | Kings Cross |
+|  | Finsbury |  |
+|  | Palace |  |
+|  | Welwyn |  |
+|  | Hitchin |  |
+|  | Panel 1 | Lancing |
+|  | Leamington | Leamington |
+|  | Ardsley | Leeds Ardsley |
+|  | West 1 | Leeds East/West |
+|  | West 2 |  |
+|  | East 1 |  |
+|  | East 2 |  |
+|  | Leeds Northwest | Leeds Northwest |
+|  | South panel | Leicester |
+|  | Croft SB |  |
+|  | North panel |  |
+|  | Bardon Hill SB |  |
+|  | Frisby SB |  |
+|  | Melton Station SB |  |
+|  | Whissendine SB |  |
+|  | Ashwell SB |  |
+|  | Langham Junction SB |  |
+|  | Oakham Level Crossing SB |  |
+|  | Manton Junction SB |  |
+|  | Ketton SB |  |
+|  | Uffington & Barnack SB |  |
+|  | South Workstation | Lincoln |
+|  | East Workstation |  |
+|  | City Workstation |  |
+|  | West Workstation |  |
+|  | Swinderby SB |  |
+|  | Langworth SB |  |
+|  | Wickenby SB |  |
+|  | Holton-le-Moor SB |  |
+|  | Allington SB |  |
+|  | Ancaster SB |  |
+|  | Rauceby SB |  |
+|  | Sleaford West SB |  |
+|  | Sleaford East SB |  |
+|  | Heckington SB |  |
+|  | Hubberts Bridge SB |  |
+|  | Boston West Street Jn SB |  |
+|  | Sibsey SB |  |
+|  | Bellwater Jn SB |  |
+|  | Thorpe Culvert SB |  |
+|  | Wainfleet SB |  |
+|  | Skegness SB |  |
+|  | West Anglia | Liverpool Street |
+|  | Great Eastern |  |
+|  | Panel 1 | London Bridge ASC |
+|  | Panel 2 |  |
+|  | Panel 3 |  |
+|  | Panel 4 |  |
+|  | Panel 5 |  |
+|  | Panel 6 |  |
+|  | Panel 7 |  |
+|  | Panel 8 |  |
+|  | Panel 9 |  |
+|  | London | LTS |
+|  | Tilbury |  |
+|  | Southend |  |
+|  | Crossings |  |
+|  | West Workstation | Machynlleth |
+|  | East Workstation |  |
+|  | Maidstone East | Maidstone East |
+|  | Dinting | Manchester East |
+|  | Guide Bridge |  |
+|  | Stalybridge |  |
+|  | Romiley Junction |  |
+|  | Ashton Moss North |  |
+|  | Baguley Fold Junction |  |
+|  | Denton |  |
+|  | Ashburys |  |
+|  | West | Manchester North |
+|  | East |  |
+|  | Vitriol Works |  |
+|  | Castleton East |  |
+|  | Rochdale West |  |
+|  | Heald Green | Manchester Piccadilly |
+|  | Longsight |  |
+|  | Piccadilly |  |
+|  | Oxford Road |  |
+|  | Windsor Bridge 1 |  |
+|  | Windsor Bridge 2 |  |
+|  | Crow Nest |  |
+|  | Manchester South SCC | Manchester South |
+|  | Macclesfield |  |
+|  | South | Marylebone |
+|  | North |  |
+|  | London Underground Metropolitan line |  |
+|  | Banbury |  |
+|  | Bedlington SB | Morpeth |
+|  | Morpeth SB |  |
+|  | Alnmouth SB |  |
+|  | Tweedmouth SB |  |
+|  | Workstation 1 | Motherwell |
+|  | Workstation 2 |  |
+|  | Workstation 3 |  |
+|  | Workstation 4 |  |
+|  | Workstation 5 |  |
+|  | Workstation 6 |  |
+|  | Severn Tunnel | Newport |
+|  | Magor |  |
+|  | Station |  |
+|  | Park Junction |  |
+|  | East Usk |  |
+|  | Greenloaning | North East Scotland |
+|  | Blackford |  |
+|  | Auchterarder |  |
+|  | Hilton Jn |  |
+|  | Perth |  |
+|  | Barnhill |  |
+|  | Errol |  |
+|  | Longforgan |  |
+|  | Dundee |  |
+|  | Tay Bridge South |  |
+|  | Leuchars |  |
+|  | Cupar |  |
+|  | Stanley Jn |  |
+|  | Carnoustie |  |
+|  | Arbroath |  |
+|  | Inerkeilor |  |
+|  | Usan |  |
+|  | Montrose North |  |
+|  | Craigo |  |
+|  | Laurencekirk |  |
+|  | Carmont |  |
+|  | Stonehaven |  |
+|  | Newtonhill |  |
+|  | Aberdeen |  |
+|  | Dee Marsh Junction | North East Wales |
+|  | Shotwick Ground Frame |  |
+|  | Penyfford |  |
+|  | Croes Newydd North Fork |  |
+|  | Gobowen North |  |
+|  | North Kent 1 | North Kent |
+|  | North Kent 2 |  |
+|  | Richmond SB | North London Line |
+|  | Acton Wells Jn SB |  |
+|  | Acton Canal Wharf SB |  |
+|  | Neasden Jn SB |  |
+|  | Dudding Hill Jn SB |  |
+|  | NLL Central Workstation |  |
+|  | NLL Eastern Workstation |  |
+|  | Temple Mills Workstation |  |
+|  | Upper Holloway SB |  |
+|  | Harringay Park Junction SB |  |
+|  | South Tottenham Station Junction SB |  |
+|  | Rockcliffe Hall | North Wales Coast |
+|  | Holywell Junction |  |
+|  | Mostyn |  |
+|  | Talacre |  |
+|  | Prestatyn |  |
+|  | Rhyl |  |
+|  | Abergele |  |
+|  | Llandudno Junction |  |
+|  | Llanwrst |  |
+|  | Deganwy |  |
+|  | Llandudno |  |
+|  | Penmaenmawr |  |
+|  | Bangor |  |
+|  | Gaerwen |  |
+|  | Valley |  |
+|  | Holyhead |  |
+|  | Oxford | Oxford |
+|  | Oxted | Oxted |
+|  | Greenford East SB | Paddington |
+|  | Panel 2 |  |
+|  | Panel 1 |  |
+|  | Panel 1 | Paisley |
+|  | Panel 2 |  |
+|  | Panel 3 |  |
+|  | Hitchin-Tempsford | Peterborough |
+|  | Little Barford-Stilton |  |
+|  | Peterborough |  |
+|  | New England |  |
+|  | Helpston-Stoke |  |
+|  | West Workstation | Plymouth |
+|  | East Workstation |  |
+|  | Panel A | Port Talbot |
+|  | Panel B |  |
+|  | Panel C |  |
+|  | Tondu |  |
+|  | Neath & Brecon Junction |  |
+|  | Panel A | Preston |
+|  | Panel B |  |
+|  | Panel C |  |
+|  | Panel D |  |
+|  | Daisyfield SB |  |
+|  | Horrocksford Jn SB |  |
+|  | Midge Hall SB |  |
+|  | Rufford SB |  |
+|  | Bare Lane LC |  |
+|  | Carnforth Station Junction |  |
+|  | Reading Panel | Reading |
+|  | Royston | Royston |
+|  | Rugby | Rugby SCC Centre |
+|  | Northampton |  |
+|  | Nuneaton | Rugby SCC North |
+|  | Trent Valley |  |
+|  | Bletchley | Rugby SCC South |
+|  | Tring |  |
+|  | Salisbury | Salisbury |
+|  | North | Saltley |
+|  | Centre |  |
+|  | South Top |  |
+|  | South Bottom |  |
+|  | Stratford-Upon-Avon |  |
+|  | Wirral | Sandhills |
+|  | Northern |  |
+|  | Hellifield SB | Settle & Carlisle line |
+|  | Settle Junction SB |  |
+|  | Blea Moor SB |  |
+|  | Garsdale SB |  |
+|  | Kirkby Stephen SB |  |
+|  | Appleby North SB |  |
+|  | Kirkby Thore SB |  |
+|  | Culgaith SB |  |
+|  | Low House Crossing SB |  |
+|  | Howe & Co Siding SB |  |
+|  | Sheffield | Sheffield |
+|  | Rotherham 1 |  |
+|  | Rotherham 2 |  |
+|  | Beighton Station Junction |  |
+|  | Woodhouse Junction |  |
+|  | Woodburn Junction |  |
+|  | Barnsley |  |
+|  | Woolley Coal Sidings |  |
+|  | Sutton Bridge Junction | Shrewsbury |
+|  | Severn Bridge Junction |  |
+|  | Abbey Foregate |  |
+|  | Crewe Junction |  |
+|  | Crewe Bank |  |
+|  | Harlescott Crossing |  |
+|  | Wem |  |
+|  | Prees |  |
+|  | Whitchurch |  |
+|  | Wrenbury |  |
+|  | Nantwich |  |
+|  | West Position | Slough |
+|  | East Position |  |
+|  | Scunthorpe PSB West | South Humberside |
+|  | Scunthorpe PSB East |  |
+|  | Gainsborough |  |
+|  | Barnetby |  |
+|  | Ulceby Jn |  |
+|  | Grimsby |  |
+|  | Immingham |  |
+|  | Derby Line | Staffordshire |
+|  | Stoke North |  |
+|  | Stoke South |  |
+|  | Stafford |  |
+|  | Colwich |  |
+|  | Edgeley No. 1 | Stockport |
+|  | Edgeley No. 2 |  |
+|  | Stockport No. 1 |  |
+|  | Stockport No. 2 |  |
+|  | Heaton Norris Jn |  |
+|  | Stourbridge Junction | Stourbridge Junction |
+|  | Workstation 1 | Swindon & Didcot |
+|  | Workstation 2 |  |
+|  | Workstation 3 |  |
+|  | Madeley Jn. | Telford & Oxley |
+|  | Oxley |  |
+|  | Panel 1A | Three Bridges ASC |
+|  | Panel 1B |  |
+|  | Panel 1C |  |
+|  | Panel 2 |  |
+|  | Panel 3 |  |
+|  | Panel 4 |  |
+|  | Panel 5 |  |
+|  | Panel 6 |  |
+|  | Reigate SB |  |
+|  | Tapton Jn | Trent PSB |
+|  | Clay Cross panel |  |
+|  | Erewash Valley panel |  |
+|  | Pinxton SB & Sleights East SB |  |
+|  | Kirkby Summit SB |  |
+|  | Robin Hood line panel |  |
+|  | Nottingham panel |  |
+|  | East Nottinghamshire panel |  |
+|  | Trent panel |  |
+|  | Stapleford & Sandiacre panel |  |
+|  | Darlington | Tyneside IECC |
+|  | Heighington Signal Box |  |
+|  | Shildon Signal Box |  |
+|  | Gateshead |  |
+|  | Newcastle |  |
+|  | Sunderland |  |
+|  | Panel 1 | Victoria Central |
+|  | Panel 2A |  |
+|  | Panel 2B |  |
+|  | Panel 3 |  |
+|  | Panel 4 |  |
+| VICC | Centre Signals | Victoria line |
+| VICL | Line Controller |  |
+| VICN | North Signals |  |
+| VICS | South Signals |  |
+|  | Panel 5 | Victoria South Eastern |
+|  | Panel 6 |  |
+|  | Panel 7 |  |
+|  | Panel 8 |  |
+|  | Panel 9 |  |
+|  | Panel 10A |  |
+|  | Panel 10B |  |
+|  | Walsall (2006) | Walsall PSB |
+|  | Bloxwich SB |  |
+|  | Hednesford SB |  |
+|  | Brereton Sidings SB |  |
+|  | Walsall (2019) |  |
+|  | Bescot |  |
+|  | North | Warrington PSB |
+|  | Middle |  |
+|  | South |  |
+|  | Arpley Junction |  |
+|  | Astley |  |
+|  | Eccles |  |
+|  | Watford Junction | Watford Junction |
+|  | Wembley | Wembley Mainline |
+|  | Willesden |  |
+|  | Camden |  |
+|  | Euston |  |
+|  | Wembley Suburban | Wembley Suburban |
+|  | Hackney | West Anglia |
+|  | Brimsdown |  |
+|  | Harlow |  |
+|  | Billingshurst SB | West Coastway |
+|  | Lancing Panel 2 |  |
+|  | Panel 1 | West Hampstead |
+|  | Panel 2 |  |
+|  | Panel 3 |  |
+|  | Panel 4 |  |
+| BWC | Chard Jn SB | West of England line |
+| BWG | Gillingham SB |  |
+| BWH | Honiton SB |  |
+| BWP | Yeovil Pen Mill SB |  |
+| BWT | Templecombe SB |  |
+| BWY | Yeovil Jn SB |  |
+|  | Pembrey SB | West Wales |
+|  | Kidwelly SB |  |
+|  | Ferryside SB |  |
+|  | Carmarthen Jn SB |  |
+|  | Whitland SB |  |
+|  | Clarbeston Road SB |  |
+|  | Horbury Jn | West Yorkshire |
+|  | Wakefield Kirkgate |  |
+|  | Castleford |  |
+|  | Prince of Wales & Cutsyke Boxes |  |
+|  | Ferrybridge |  |
+|  | Milford |  |
+|  | Milford West |  |
+|  | Reading Newbury | Westbury |
+|  | Panel A |  |
+|  | Panel B |  |
+|  | Wigan Wallgate | Wigan |
+|  | Rainford Jnc |  |
+|  | Parbold |  |
+|  | Burscough Bridge Jnc |  |
+|  | Panel 1 | Wimbledon |
+|  | Panel 2 |  |
+|  | Panel 3 |  |
+|  | Panel 4 |  |
+|  | Clapham Yard Panel |  |
+|  | Surbiton | Woking |
+|  | Woking |  |
+|  | Aldershot |  |
+|  | Wolverhampton | Wolverhampton |
+|  | Thrumpton SB | Worksop |
+|  | Worksop SB |  |
+|  | Maltby Colliery SB |  |
+|  | Kiveton Park SB |  |
+|  | Elmton & Creswell Jn SB |  |
+|  | Shirebrook Jn SB |  |
+|  | Clipstone SB |  |
+|  | Thoresby Colliery Jn SB |  |
+|  | Workstation 1 | Yoker SC |
+|  | Workstation 2 |  |
+|  | South | York North/South |
+|  | North |  |
+|  | Gascoigne Wood |  |
