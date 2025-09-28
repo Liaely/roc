@@ -294,7 +294,7 @@ The list is sorted alphabetically by sim name.
 | KXP | Palace |  |
 | KXW | Welwyn |  |
 | KXH | Hitchin |  |
-| LN | Panel 1 | Lancing |
+| LC | Panel 1 | Lancing |
 | LM | Leamington | Leamington Spa & Fenny Compton |
 | LA | Leeds Ardsley | Leeds Ardsley |
 | LSW2 | West 2 | Leeds East/West |
