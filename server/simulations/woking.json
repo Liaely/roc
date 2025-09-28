@@ -4,6 +4,7 @@
 		{
 			"id": "surbiton",
 			"name": "Surbiton",
+			"code": "WOS",
 			"neighbours": [
 				{
 					"simId": "wimbledon",
@@ -26,6 +27,7 @@
 		{
 			"id": "woking",
 			"name": "Woking",
+			"code": "WOW",
 			"neighbours": [
 				{
 					"simId": "woking",
@@ -48,6 +50,7 @@
 		{
 			"id": "aldershot",
 			"name": "Aldershot",
+			"code": "WOA",
 			"neighbours": [
 				{
 					"simId": "guildford",

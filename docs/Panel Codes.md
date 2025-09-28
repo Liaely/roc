@@ -594,7 +594,7 @@ The list is sorted alphabetically by sim name.
 | VE9 | Panel 9 |  |
 | VE0A | Panel 10A |  |
 | VE0B | Panel 10B |  |
-| WA6 | Walsall 2006 | Walsall |
+| WL6 | Walsall 2006 | Walsall |
 | WA9 | Walsall 2019 |  |
 | WAX | Bloxwich |  |
 | WAH | Hednesford |  |
@@ -613,8 +613,8 @@ The list is sorted alphabetically by sim name.
 | WME | Euston |  |
 | WS | Wembley Suburban | Wembley Suburban |
 | WAK | Hackney | West Anglia |
-| WAB | Brimsdown |  |
-| WAR | Harlow |  |
+| WAD | Brimsdown |  |
+| WAL | Harlow |  |
 | WCB | Billingshurst | ~~West Coastway~~ |
 | WCL | Lancing Panel 2 |  |
 | WH1 | Panel 1 | West Hampstead |
