@@ -416,11 +416,11 @@ The list is sorted alphabetically by sim name.
 | WXD | Dee Marsh Jn | North East Wales |
 | WXS | Shotwick Ground Frame |  |
 | WXP | Penyfford |  |
-| WXG | Croes Newydd North Fork |  |
+| WXN | Croes Newydd North Fork |  |
 | WXG | Gobowen North |  |
 | NPS | Severn Tunnel | Newport |
 | NPM | Magor |  |
-| NPS | Station |  |
+| NPC | Station |  |
 | NPP | Park Jn |  |
 | NPU | East Usk |  |
 | NLR | Richmond | ~~North London Line~~ |
