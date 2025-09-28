@@ -566,7 +566,7 @@ The list is sorted alphabetically by sim name.
 | TB5 | Panel 5 |  |
 | TB6 | Panel 6 |  |
 | TBR | Reigate |  |
-| TRT | Tapton Jn | ~~Trent~~ |
+| TRA | Tapton Jn | ~~Trent~~ |
 | TRC | Clay Cross |  |
 | TRV | Erewash Valley |  |
 | TRP | Pinxton & Sleights East |  |
