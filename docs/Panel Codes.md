@@ -378,7 +378,6 @@ The list is sorted alphabetically by sim name.
 | MBB | Banbury | Marylebone |
 | MBS | Marylebone South |  |
 | MBN | Marylebone North |  |
-| MBB | Bicester-Oxford | |
 | MBL | LUL Area | |
 | MOB | Bedlington | ~~Morpeth~~ |
 | MOM | Morpeth |  |
