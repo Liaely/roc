@@ -518,14 +518,14 @@ The list is sorted alphabetically by sim name.
 | SFR2 | Rotherham 2 |  |
 | SFE | Beighton St Jn |  |
 | SFH | Woodhouse Jn |  |
-| SFB | Woodburn Jn |  |
+| SFD | Woodburn Jn |  |
 | SFB | Barnsley |  |
 | SFC | Woolley Coal Sdgs |  |
 | SRU | Sutton Bridge Jn | Shrewsbury |
 | SRE | Severn Bridge Jn |  |
 | SRA | Abbey Foregate |  |
-| SRC | Crewe Jn |  |
-| SRB | Crewe Bank |  |
+| SRCJ | Crewe Jn |  |
+| SRCB | Crewe Bank |  |
 | SRH | Harlescott Crossing |  |
 | SRW | Wem |  |
 | SRP | Prees |  |
