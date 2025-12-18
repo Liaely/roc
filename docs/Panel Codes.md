@@ -469,10 +469,10 @@ Reserved codes:
 | PA2 | Panel 2 |  |
 | PA3 | Panel 3 |  |
 | PBT | Hitchin-Tempsford | Peterborough |
-| PHB | Little Barford-Stilton |  |
-| PHP | Peterborough |  |
-| PHE | New England |  |
-| PHH | Helpston-Stoke |  |
+| PBB | Little Barford-Stilton |  |
+| PBS | Peterborough |  |
+| PBE | New England |  |
+| PBH | Helpston-Stoke |  |
 | PLW | West | Plymouth |
 | PLE | East |  |
 | PTA | Panel A | Port Talbot |
