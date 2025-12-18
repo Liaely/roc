@@ -4,9 +4,9 @@ import sys
 Docs_Path = 'docs/Panel Codes.md'
 Simulations = 'server/simulations'
 
-DocsCodes = ["DocCodes"]
-SimCodes = ["SimCodes"]
-Errors = ["ErrorList"]
+DocsCodes = ["Codes"] # Keep header same to avoid false errors
+SimCodes = ["Codes"]
+Errors = ["ErrorList:"]
 
 def main():
     ImportDocsCodes()
@@ -24,7 +24,7 @@ def main():
 def ImportDocsCodes():
     with open(Docs_Path, 'r') as Document:
         for Line in Document:
-            if Line[0] == '|' and not 'Code' in Line and not '-' in Line:
+            if Line[0] == '|' and not 'Code' in Line and not '--' in Line: # -- to avoid standard hyphens which would cause false errors
                 Code = Line.split('|')[1].strip()
                 if Code in DocsCodes:
                     Errors.append("Code '{0}' duplicated in docs!".format(Code))
@@ -36,7 +36,7 @@ def ImportJSONCodes():
         with open(os.path.join(Simulations, Filename), 'r') as File:
             for Line in File:
                 if '"code":' in Line: # Slightly cursed method of interpreting json files, but it works
-                    Code = Line.replace(',', '').replace('"', '').strip().split(':')[1]
+                    Code = Line.replace(',', '').replace('"', '').strip().split(':')[1].strip()
                     if Code in SimCodes:
                         Errors.append("Code '{0}' duplicated in sims!".format(Code))
                     else:
