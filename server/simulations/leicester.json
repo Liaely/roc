@@ -170,7 +170,7 @@
 		{
 			"id": "mantonjn",
 			"name": "Manton Junction SB",
-			"code": "LSM",
+			"code": "LST",
 			"neighbours": [
 				{
 					"simId": "leicester",

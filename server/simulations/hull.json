@@ -53,7 +53,7 @@
 		{
 			"id": "brough",
 			"name": "Brough Workstation",
-			"code": "HLB",
+			"code": "HLR",
 			"neighbours": [
 				{
 					"simId": "hull",

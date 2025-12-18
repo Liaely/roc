@@ -92,7 +92,7 @@
 		{
 			"id": "shields",
 			"name": "Shields",
-			"code": "GGS",
+			"code": "GGH",
 			"neighbours": [
 				{
 					"simId": "glasgow",

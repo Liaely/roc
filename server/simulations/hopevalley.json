@@ -155,7 +155,7 @@
 		{
 			"id": "greatrocksjn",
 			"name": "Great Rocks Junction SB",
-			"code": "HVG",
+			"code": "HVR",
 			"neighbours": [
 				{
 					"simId": "hopevalley",

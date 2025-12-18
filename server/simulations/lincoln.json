@@ -140,7 +140,7 @@
 		{
 			"id": "allington",
 			"name": "Allington SB",
-			"code": "LCAC",
+			"code": "LCAL",
 			"neighbours": [
 				{
 					"simId": "trent",
@@ -159,7 +159,7 @@
 		{
 			"id": "ancaster",
 			"name": "Ancaster SB",
-			"code": "LCRA",
+			"code": "LCAC",
 			"neighbours": [
 				{
 					"simId": "lincoln",

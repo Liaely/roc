@@ -216,7 +216,7 @@ Reserved codes:
 | FHS | Staines |  |
 | FHH | Hounslow |  |
 | FHT | Twickenham |  |
-| FHR | Strawberry Hill |  |
+| FHL | Strawberry Hill |  |
 | FHB | Barnes |  |
 | GES | Stratford | ~~GEML Inner~~ |
 | GEI | Ilford |  |
@@ -224,7 +224,7 @@ Reserved codes:
 | GGB | Bridge Street |  |
 | GGP | Polmadie |  |
 | GGM | Muirhouse |  |
-| GGS | Shields |  |
+| GGH | Shields |  |
 | GLN | North | ~~Gloucester~~ |
 | GLC | Central |  |
 | GLS | South |  |
@@ -236,7 +236,7 @@ Reserved codes:
 | GSN | New Cumnock |  |
 | GSC | Kirkconnel |  |
 | GST | Thornhill |  |
-| GSH | Holywood |  |
+| GSY | Holywood |  |
 | GSD | Dumfries Station |  |
 | GSA | Annan |  |
 | GFE | East | ~~Guildford~~ |
@@ -276,7 +276,7 @@ Reserved codes:
 | HVG | Grindleford |  |
 | HVT | Totley Tunnel East |  |
 | HVP | Peak Forest |  |
-| HVG | Great Rocks |  |
+| HVR | Great Rocks |  |
 | HVF | Furness Vale |  |
 | HVL | Chapel-En-Le-Frith |  |
 | HVB | Buxton |  |
@@ -287,7 +287,7 @@ Reserved codes:
 | HLG | Goole | ~~Hull~~ |
 | HLB | Goole Bridge |  |
 | HLS | Selby |  |
-| HLB | Brough |  |
+| HLR | Brough |  |
 | HLH | Hessle Road |  |
 | HLP | Hull Paragon |  |
 | HCH | Hunts Cross | Hunts Cross |
@@ -320,7 +320,7 @@ Reserved codes:
 | LSA | Ashwell |  |
 | LSL | Langham Jn |  |
 | LSO | Oakham LC |  |
-| LSM | Manton Jn |  |
+| LST | Manton Jn |  |
 | LSK | Ketton |  |
 | LSU | Uffington & Barnack |  |
 | LCS | South | ~~Lincoln~~ |
@@ -331,6 +331,7 @@ Reserved codes:
 | LCLG | Langworth |  |
 | LCWB | Wickenby |  |
 | LCHM | Holton-le-Moor |  |
+| LCAL | Allington |  |
 | LCAC | Ancaster |  |
 | LCRA | Rauceby |  |
 | LCSW | Sleaford West |  |
@@ -515,7 +516,7 @@ Reserved codes:
 | SCKT | Kirkby Thore |  |
 | SCC | Culgaith |  |
 | SCL | Low House Crossing |  |
-| SCH | Howe & Co Siding |  |
+| SCD | Howe & Co Siding |  |
 | SFS | Sheffield | Sheffield |
 | SFR1 | Rotherham 1 |  |
 | SFR2 | Rotherham 2 |  |
@@ -532,7 +533,7 @@ Reserved codes:
 | SRH | Harlescott Crossing |  |
 | SRW | Wem |  |
 | SRP | Prees |  |
-| SRU | Whitchurch |  |
+| SRT | Whitchurch |  |
 | SRR | Wrenbury |  |
 | SRN | Nantwich |  |
 | SUW | West | Slough |

@@ -147,7 +147,7 @@
 		{
 			"id": "howecosiding",
 			"name": "Howe & Co Siding SB",
-			"code": "SCH",
+			"code": "SCD",
 			"neighbours": [
 				{
 					"simId": "settlecarlisle",

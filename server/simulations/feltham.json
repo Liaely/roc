@@ -114,7 +114,7 @@
 		{
 			"id": "strawberryhill",
 			"name": "Strawberry Hill",
-			"code": "FHR",
+			"code": "FHL",
 			"neighbours": [
 				{
 					"simId": "feltham",

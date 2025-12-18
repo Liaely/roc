@@ -50,7 +50,7 @@
 		{
 			"id": "wks3",
 			"name": "Workstation 3",
-			"code": "MW2",
+			"code": "MW3",
 			"neighbours": [
 				{
 					"simId": "motherwell",
