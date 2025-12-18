@@ -595,9 +595,9 @@ Reserved codes:
 | VE7 | Panel 7 |  |
 | VE8 | Panel 8 |  |
 | VE9 | Panel 9 |  |
-| VE0A | Panel 10A |  |
-| VE0B | Panel 10B |  |
-| WL6 | Walsall 2006 | Walsall |
+| VE10A | Panel 10A |  |
+| VE10B | Panel 10B |  |
+| WA6 | Walsall 2006 | Walsall |
 | WA9 | Walsall 2019 |  |
 | WAX | Bloxwich |  |
 | WAH | Hednesford |  |
