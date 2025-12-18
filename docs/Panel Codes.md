@@ -4,6 +4,14 @@ Sim names ~~struck through~~ indicate a simulation that does not exist in SimSig
 Panel and sim names are informative and not reflective of internal identification.  
 The list is sorted alphabetically by sim name.  
 
+Reserved codes:
+  Peterborough:
+    PBCE - Everton G.B.
+    PBCO - Offord & Buckden G.B.
+    PBCM - Holme G.B.
+    PBCP - Helpston G.B.
+    PBCT - Tallington G.B.
+
 | Code | Panel Name | Sim Name |
 | -- | ---------- | --- |
 | VICN | North Signals | Victoria Line |
@@ -465,11 +473,6 @@ The list is sorted alphabetically by sim name.
 | PHP | Peterborough |  |
 | PHE | New England |  |
 | PHH | Helpston-Stoke |  |
-| PHCE | Everton G.B. |  |
-| PHCO | Offord & Buckden G.B. |  |
-| PHCM | Holme G.B. |  |
-| PHCP | Helpston G.B. |  |
-| PHCT | Tallington G.B. |  |
 | PLW | West | Plymouth |
 | PLE | East |  |
 | PTA | Panel A | Port Talbot |
