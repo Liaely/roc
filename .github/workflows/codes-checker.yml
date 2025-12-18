@@ -1,6 +1,15 @@
 name: Check panel short codes
 
 on:
+  push:
+    branches:
+      - '*'
+      - '**'
+    paths:
+      - 'docs/Panel Codes.md'
+      - 'server/simulations/**'
+      - '.github/workflows/codes-checker.yml'
+      - '.github/workflows/scripts/code-checker.py'
   pull_request:
     types: [opened, synchronize]
     paths: 
