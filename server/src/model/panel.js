@@ -7,7 +7,8 @@ export default class Panel {
   player;
   /** @type {Location[]} */
   neighbours = [];
-
+  /** @type {{ id: string, displayName: string, avatarURL: string } | undefined} */
+  playerDetails;
   /**@type {Phone} */
   phone;
 
