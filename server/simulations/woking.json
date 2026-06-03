@@ -12,7 +12,7 @@
 				},
 				{
 					"simId": "guildford",
-					"panelId": "east"
+					"panelId": "guildford"
 				},
 				{
 					"simId": "feltham",
@@ -35,7 +35,7 @@
 				},
 				{
 					"simId": "guildford",
-					"panelId": "east"
+					"panelId": "guildford"
 				},
 				{
 					"simId": "woking",
@@ -54,7 +54,7 @@
 			"neighbours": [
 				{
 					"simId": "guildford",
-					"panelId": "east"
+					"panelId": "guildford"
 				},
 				{
 					"simId": "woking",
