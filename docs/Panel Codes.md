@@ -218,6 +218,10 @@ Reserved codes:
 | FHT | Twickenham |  |
 | FHL | Strawberry Hill |  |
 | FHB | Barnes |  |
+| GDD | Guildford | Guildford |
+| GDF | Farncombe |  |
+| GDH | Haslemere |  |
+| GHP | Petersfield |  |
 | GES | Stratford | ~~GEML Inner~~ |
 | GEI | Ilford |  |
 | GGS | Station | ~~Glasgow~~ |
@@ -278,6 +282,7 @@ Reserved codes:
 | HSB | Bo Peep Jn |  |
 | HSH | Hastings |  |
 | HSY | Rye |  |
+| HTP | Portsmouth | ~~Havant~~ |
 | HVH | Hazel Grove | Hope Valley |
 | HVNC | New Mills Central |  |
 | HVNS | New Mills South Jn |  |
