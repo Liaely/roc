@@ -241,18 +241,9 @@ Reserved codes:
 | GSA | Annan |  |
 | GFE | East | ~~Guildford~~ |
 | GFW | West |  |
-| HGF | Horsforth | ~~Harrogate~~ |
-| HGR | Rigton |  |
-| HGH | Harrogate |  |
-| HGS | Starbeck |  |
-| HGK | Knaresborough |  |
-| HGC | Cattal |  |
-| HGM | Hammerton |  |
-| HGP | Poppleton |  |
-| HSR | Robertsbridge | ~~Hastings~~ |
-| HSB | Bo Peep Jn |  |
-| HSH | Hastings |  |
-| HSY | Rye |  |
+| HCH | Hunts Cross | Hunts Cross |
+| HCW | Warrington Central |  |
+| HCG | Glazebrook East Jn |  |
 | HFD | Dorrington | Hereford |
 | HFM | Marsh Brook |  |
 | HFC | Craven Arms |  |
@@ -267,6 +258,26 @@ Reserved codes:
 | HFP | Pantyffynnon |  |
 | HFA | Abergavenny |  |
 | HFL | Little Mill Jn |  |
+| HGF | Horsforth | ~~Harrogate~~ |
+| HGR | Rigton |  |
+| HGH | Harrogate |  |
+| HGS | Starbeck |  |
+| HGK | Knaresborough |  |
+| HGC | Cattal |  |
+| HGM | Hammerton |  |
+| HGP | Poppleton |  |
+| HLG | Goole | ~~Hull~~ |
+| HLB | Goole Bridge |  |
+| HLS | Selby |  |
+| HLR | Brough |  |
+| HLH | Hessle Road |  |
+| HLP | Hull Paragon |  |
+| HOH | Horsham | Horsham |
+| HOD | Dorking |  |
+| HSR | Robertsbridge | ~~Hastings~~ |
+| HSB | Bo Peep Jn |  |
+| HSH | Hastings |  |
+| HSY | Rye |  |
 | HVH | Hazel Grove | Hope Valley |
 | HVNC | New Mills Central |  |
 | HVNS | New Mills South Jn |  |
@@ -280,19 +291,8 @@ Reserved codes:
 | HVF | Furness Vale |  |
 | HVL | Chapel-En-Le-Frith |  |
 | HVB | Buxton |  |
-| HOH | Horsham | Horsham |
-| HOD | Dorking |  |
 | HUH | Huddersfield | Huddersfield |
 | HUD | Diggle Jn |  |
-| HLG | Goole | ~~Hull~~ |
-| HLB | Goole Bridge |  |
-| HLS | Selby |  |
-| HLR | Brough |  |
-| HLH | Hessle Road |  |
-| HLP | Hull Paragon |  |
-| HCH | Hunts Cross | Hunts Cross |
-| HCW | Warrington Central |  |
-| HCG | Glazebrook East Jn |  |
 | HYL | MROC Liverpool | Huyton & St Helens |
 | HYH | St Helens |  |
 | IVK | Dunkeld | ~~Inverness~~ |
