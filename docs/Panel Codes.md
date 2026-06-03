@@ -221,7 +221,7 @@ Reserved codes:
 | GDD | Guildford | Guildford |
 | GDF | Farncombe |  |
 | GDH | Haslemere |  |
-| GHP | Petersfield |  |
+| GDP | Petersfield |  |
 | GES | Stratford | ~~GEML Inner~~ |
 | GEI | Ilford |  |
 | GGS | Station | ~~Glasgow~~ |
@@ -243,8 +243,6 @@ Reserved codes:
 | GSY | Holywood |  |
 | GSD | Dumfries Station |  |
 | GSA | Annan |  |
-| GFE | East | ~~Guildford~~ |
-| GFW | West |  |
 | HCH | Hunts Cross | Hunts Cross |
 | HCW | Warrington Central |  |
 | HCG | Glazebrook East Jn |  |
