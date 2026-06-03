@@ -32,6 +32,10 @@
 				{
 					"simId": "eastleigh",
 					"panelId": "panel3"
+				},
+				{
+					"simId": "havant",
+					"panelId": "portsmouth"
 				}
 			]
 		},
